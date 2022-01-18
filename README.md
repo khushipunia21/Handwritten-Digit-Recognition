@@ -5,5 +5,7 @@
 
 - DATASET USED:   **MNIST Dataset**
 
+- ACCURACY OF MODEL: **96 %**
+
 <p align="left">
 </p>
